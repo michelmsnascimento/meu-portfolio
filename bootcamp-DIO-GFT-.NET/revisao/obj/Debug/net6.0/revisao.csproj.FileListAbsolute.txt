@@ -1,0 +1,15 @@
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\bin\Debug\net6.0\revisao.exe
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\bin\Debug\net6.0\revisao.deps.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\bin\Debug\net6.0\revisao.runtimeconfig.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\bin\Debug\net6.0\revisao.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\bin\Debug\net6.0\ref\revisao.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\bin\Debug\net6.0\revisao.pdb
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\obj\Debug\net6.0\revisao.csproj.AssemblyReference.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\obj\Debug\net6.0\revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\obj\Debug\net6.0\revisao.AssemblyInfoInputs.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\obj\Debug\net6.0\revisao.AssemblyInfo.cs
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\obj\Debug\net6.0\revisao.csproj.CoreCompileInputs.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\obj\Debug\net6.0\revisao.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\obj\Debug\net6.0\ref\revisao.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\obj\Debug\net6.0\revisao.pdb
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\revisao\obj\Debug\net6.0\revisao.genruntimeconfig.cache
