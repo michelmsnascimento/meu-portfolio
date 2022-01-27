@@ -1,0 +1,5 @@
+C:\Users\Soldier\Desktop\Repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\desafioDio1\obj\Debug\net5.0\desafioDio1.csproj.AssemblyReference.cache
+C:\Users\Soldier\Desktop\Repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\desafioDio1\obj\Debug\net5.0\desafioDio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soldier\Desktop\Repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\desafioDio1\obj\Debug\net5.0\desafioDio1.AssemblyInfoInputs.cache
+C:\Users\Soldier\Desktop\Repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\desafioDio1\obj\Debug\net5.0\desafioDio1.AssemblyInfo.cs
+C:\Users\Soldier\Desktop\Repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\desafioDio1\obj\Debug\net5.0\desafioDio1.csproj.CoreCompileInputs.cache
