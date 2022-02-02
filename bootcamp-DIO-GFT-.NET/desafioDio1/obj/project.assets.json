@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Soldier\\.nuget\\packages\\": {}
+    "C:\\Users\\Projetos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Soldier\\Desktop\\Repositorios\\meu-portfolio\\bootcamp-DIO-GFT-.NET\\desafioDio1\\desafioDio1.csproj",
+      "projectUniqueName": "C:\\Users\\Projetos\\Desktop\\Repo\\meu-portfolio\\bootcamp-DIO-GFT-.NET\\desafioDio1\\desafioDio1.csproj",
       "projectName": "desafioDio1",
-      "projectPath": "C:\\Users\\Soldier\\Desktop\\Repositorios\\meu-portfolio\\bootcamp-DIO-GFT-.NET\\desafioDio1\\desafioDio1.csproj",
-      "packagesPath": "C:\\Users\\Soldier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Soldier\\Desktop\\Repositorios\\meu-portfolio\\bootcamp-DIO-GFT-.NET\\desafioDio1\\obj\\",
+      "projectPath": "C:\\Users\\Projetos\\Desktop\\Repo\\meu-portfolio\\bootcamp-DIO-GFT-.NET\\desafioDio1\\desafioDio1.csproj",
+      "packagesPath": "C:\\Users\\Projetos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Projetos\\Desktop\\Repo\\meu-portfolio\\bootcamp-DIO-GFT-.NET\\desafioDio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Soldier\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Projetos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

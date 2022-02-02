@@ -1,0 +1,16 @@
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\bin\Debug\net5.0\demos.exe
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\bin\Debug\net5.0\demos.deps.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\bin\Debug\net5.0\demos.runtimeconfig.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\bin\Debug\net5.0\demos.runtimeconfig.dev.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\bin\Debug\net5.0\demos.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\bin\Debug\net5.0\ref\demos.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\bin\Debug\net5.0\demos.pdb
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\obj\Debug\net5.0\demos.csprojAssemblyReference.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\obj\Debug\net5.0\demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\obj\Debug\net5.0\demos.AssemblyInfoInputs.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\obj\Debug\net5.0\demos.AssemblyInfo.cs
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\obj\Debug\net5.0\demos.csproj.CoreCompileInputs.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\obj\Debug\net5.0\demos.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\obj\Debug\net5.0\ref\demos.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\obj\Debug\net5.0\demos.pdb
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\ValuesAndReferences\demos\obj\Debug\net5.0\demos.genruntimeconfig.cache

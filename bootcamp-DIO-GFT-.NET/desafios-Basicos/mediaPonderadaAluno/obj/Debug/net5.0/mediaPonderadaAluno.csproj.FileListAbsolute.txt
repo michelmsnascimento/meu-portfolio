@@ -1,0 +1,16 @@
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\bin\Debug\net5.0\mediaPonderadaAluno.exe
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\bin\Debug\net5.0\mediaPonderadaAluno.deps.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\bin\Debug\net5.0\mediaPonderadaAluno.runtimeconfig.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\bin\Debug\net5.0\mediaPonderadaAluno.runtimeconfig.dev.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\bin\Debug\net5.0\mediaPonderadaAluno.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\bin\Debug\net5.0\ref\mediaPonderadaAluno.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\bin\Debug\net5.0\mediaPonderadaAluno.pdb
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\obj\Debug\net5.0\mediaPonderadaAluno.csprojAssemblyReference.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\obj\Debug\net5.0\mediaPonderadaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\obj\Debug\net5.0\mediaPonderadaAluno.AssemblyInfoInputs.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\obj\Debug\net5.0\mediaPonderadaAluno.AssemblyInfo.cs
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\obj\Debug\net5.0\mediaPonderadaAluno.csproj.CoreCompileInputs.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\obj\Debug\net5.0\mediaPonderadaAluno.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\obj\Debug\net5.0\ref\mediaPonderadaAluno.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\obj\Debug\net5.0\mediaPonderadaAluno.pdb
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\desafios-Basicos\mediaPonderadaAluno\obj\Debug\net5.0\mediaPonderadaAluno.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\bin\Debug\net5.0\myapp.exe
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\bin\Debug\net5.0\myapp.deps.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\bin\Debug\net5.0\myapp.runtimeconfig.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\bin\Debug\net5.0\myapp.runtimeconfig.dev.json
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\bin\Debug\net5.0\myapp.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\bin\Debug\net5.0\ref\myapp.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\bin\Debug\net5.0\myapp.pdb
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\obj\Debug\net5.0\myapp.csprojAssemblyReference.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\obj\Debug\net5.0\myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\obj\Debug\net5.0\myapp.AssemblyInfoInputs.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\obj\Debug\net5.0\myapp.AssemblyInfo.cs
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\obj\Debug\net5.0\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\obj\Debug\net5.0\myapp.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\obj\Debug\net5.0\ref\myapp.dll
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\obj\Debug\net5.0\myapp.pdb
+C:\Users\Projetos\Desktop\Repo\meu-portfolio\bootcamp-DIO-GFT-.NET\myapp\myapp\obj\Debug\net5.0\myapp.genruntimeconfig.cache
