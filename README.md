@@ -1,5 +1,5 @@
 ## Olá Eu sou o Michel! 
-## Abaixo estou desenvolvendo uma estrutura para facilitar o acesso do meu portifolio.
+## Abaixo estou desenvolvendo uma estrutura para facilitar o acesso ao meu portifolio.
 ### dir
 ```
 dir Michel Moraes
