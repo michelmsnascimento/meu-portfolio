@@ -1,16 +1,26 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using CursoNetCoreMVC.Models;
+using System;
 
 namespace CursoNetCoreMVC.Models
 {
     public class Context : DbContext
     {
-        public DbSet<Categoria> Categorias { get; set; }
-        
+        public virtual DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Produto> Produtos { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server = localhost\\mssqllocaldb; Database = CursoMVC; Integrated Security = True");
-            //optionsBuilder.UseSqlServer("Data Sourse=;Initial Catalog=CursoMVC;Integrated Security=True");
+            optionsBuilder.UseSqlServer(@"Server = ASUS-PC; Database = Cursomvc; Integrated Security = True");
+            
         }
+
+        //public DbSet<CursoNetCoreMVC.Models.Produto> Produto { get; set; }
+        public virtual void SetModified(object entity)
+        {
+            Entry(entity).State = EntityState.Modified;
+        }
+
         
     }
 }

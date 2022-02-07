@@ -4,20 +4,23 @@
 ```
 dir Michel Moraes
 cd/bootcamp-DIO-GFT-.NET
-     /CursoMVC - Linguagem C# .Net
-     /appCadastroSeries - Linguagem C# .Net
-     /desafioDio1 - Linguagem C# .Net
-     /myapp - Linguagem C# .Net
-     /revisao - Linguagem C# .Net
+     /appCadastroSeries
+     /CursoNetCoreMVC
+     	/CursoAPI
+        /CursooNetCoreMVC
+        /CursoTest
+     /desafioDio1
+     /desafios-Basicos
+	/mediaPonderadaAluno
+        /testeDeSelecao
+        /vaiTerCopa
+     /Ecossistema.NET
+     /myapp
+     /revisao
+     /ValuesAndReferences
 
 ~/Certificados
      /bootcamp-DIO-GFT-.Net => status = 100% concluído
 
-
-
-
-
-
-
 ```
-! atualização em andamento ...
+

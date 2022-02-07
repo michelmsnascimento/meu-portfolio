@@ -146,3 +146,11 @@ C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetC
 C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\obj\Debug\net5.0\Razor\Views\Categorias\Details.cshtml.g.cs
 C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\obj\Debug\net5.0\Razor\Views\Categorias\Edit.cshtml.g.cs
 C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\obj\Debug\net5.0\staticwebassets\CursoNetCoreMVC.StaticWebAssets.xml
+C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\obj\Debug\net5.0\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\obj\Debug\net5.0\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\obj\Debug\net5.0\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\obj\Debug\net5.0\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\Asus\Desktop\repositorios\meu-portfolio\bootcamp-DIO-GFT-.NET\CursoNetCoreMVC\CursoNetCoreMVC\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
