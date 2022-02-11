@@ -4,16 +4,16 @@
 ```
 dir Michel Moraes
 cd/bootcamp-DIO-GFT-.NET
-     /appCadastroSeries
-     /CursoNetCoreMVC
-     	/CursoAPI
-        /CursooNetCoreMVC
-        /CursoTest
-     /desafioDio1
-     /desafios-Basicos
-	/mediaPonderadaAluno
-        /testeDeSelecao
-        /vaiTerCopa
+       /appCadastroSeries
+     ls/CursoNetCoreMVC
+     		/CursoAPI
+       		/CursooNetCoreMVC
+        	/CursoTest
+       /desafioDio1
+     ls/desafios-Basicos
+		/mediaPonderadaAluno
+         	/testeDeSelecao
+         	/vaiTerCopa
      /Ecossistema.NET
      /myapp
      /revisao
