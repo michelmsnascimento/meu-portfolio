@@ -2,7 +2,7 @@
 <hr>
 <div class="form-inline">
   <div class="form-group-mb-2">
-    <label class="mr-2"> Filtro: 
+    <label class="mr-2"> Filtro:
     <input type="text" class="form-control mr-2" placeholder="buscar" [(ngModel)]="filtroLista">
     </label>
   </div>
@@ -13,7 +13,8 @@
     <tr>
       <th><button type="button" class="btn btn-outline-light btn-sm"
         (click)="alterarImagem()">
-          {{ mostrarImagem ? 'mostrar' : 'ocultar' }} </button></th>
+        <i class="{{mostrarImagem ? 'fa-solid fa-eye' : 'fa-solid fa-eye-slash'}}"></i>
+          {{mostrarImagem ? 'mostrar' : 'ocultar' }} </button></th>
       <th>#</th>
       <th>Tema</th>
       <th>Local</th>
@@ -27,21 +28,29 @@
     <tr *ngFor="let evento of eventosFiltrados">
       <td><img [collapse]="mostrarImagem"
           [isAnimated]="true"
-          src="/assets/{{evento.imagemURL}}" alt=""
+          src="/assets/{{evento.imagemURL}}"
           [style.width.px]="widthImg"
-          [style.margin.px]="marginImg"></td>
-      <td>{{evento.eventoId}}</td>
+          [style.margin.px]="marginImg">
+      </td>
+      <td>{{evento.id}}</td>
       <td>{{evento.tema}}</td>
       <td>{{evento.local}}</td>
-      <td>{{evento.dataEvento}}</td>
+      <td>{{evento.dataEvento | DateFormatPipe}}</td>
       <td>{{evento.qtdPessoas}}</td>
-      <td>{{evento.lote}}</td>
-      <td><button type="button" class="btn btn-primary btn-sm mr-2">Editar</button>
-          <button type="button" class="btn btn-danger btn-sm">Excluir</button>
+      <td>{{evento.lotes[0].nome}}</td>
+      <td>
+        <div class="btn-group">
+          <button type="button" class="btn btn-primary btn-sm" tooltip="Editar">
+          <i class="{{'fa fa-edit'}}"></i>
+          </button>
+          <button type="button" class="btn btn-danger btn-sm" tooltip="Excluir" (click)="openModal(template)">
+          <i class="{{'fa fa-trash'}}"></i>
+          </button>
+        </div>
       </td>
     </tr>
   </tbody>
-  <tfoot *ngIf="eventos && eventos.length">
+  <tfoot *ngIf="eventos && !eventos.length">
     <tr>
       <td colspan="8" class="text-center">
         <h4>Nenhum evento enncontrado!</h4>
@@ -49,5 +58,15 @@
     </tr>
   </tfoot>
 </table>
+
+<!== {{eventos | json}} ==>
+
+<ng-template #template>
+  <div class="modal-body text-center">
+    <p>Tem certeza que deseja deletar esse evento?</p>
+    <button type="button" class="btn btn-default" (click)="showSuccess()" >Sim</button>
+    <button type="button" class="btn btn-primary" (click)="decline()" >Não</button>
+  </div>
+</ng-template>
 
 
